@@ -1,0 +1,13 @@
+class, n, mean, median
+no-damage, 687, 0.5663, 0.5541
+minor-damage, 8, 0.5575, 0.3633
+major-damage, 14, 0.5724, 0.4993
+destroyed, 169, 0.8245, 0.8382
+event, no-damage n, no-damage mean, destroyed n, destroyed mean
+santa-rosa-wildfire, 208, 0.4083, 116, 0.8694
+socal-fire, 61, 0.3914, 26, 0.7451
+midwest-flooding, 321, 0.6693, 6, 0.5420
+guatemala-volcano, 97, 0.6739, 21, 0.7552
+threshold, 0.77, destroyed_f1, 0.4920, precision, 0.4000, recall, 0.6391
+undamaged_false_positive_rate, 0.2285, tp, 108, fp, 162, fn, 61
+subset is 13 practice pairs. This cut is not frozen and was not applied to Mexico City or Palu.

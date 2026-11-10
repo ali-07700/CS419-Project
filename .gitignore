@@ -33,6 +33,8 @@ train/
 Dataset/
 xview_geotransforms.json
 
+# Score tables and report figures are kept. The rules above still ignore the satellite images.
+!outputs/**/*.png
+
 # Local scratch
-outputs/
 tmp/
