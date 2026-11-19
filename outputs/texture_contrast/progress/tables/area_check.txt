@@ -1,0 +1,24 @@
+santa-rosa-wildfire_00000006
+  buildings, 38, center latitude, 38.4939
+  label fit: pixel side along x m, 0.4471, along y m, 0.4489, rotation deg, -0.157, worst vertex residual m, 0.0041
+  geotransform file: pixel width m, 0.4018, pixel height m, 0.5134
+  metadata: gsd, 1.8770, pan_resolution, 0.4689
+  total shoelace px, 141617.0, total filled px, 145607, filled over shoelace, 1.0282
+  total lng_lat reference m2, 28419.7
+  source of pixel area, pixel area m2, total m2, total over reference, worst building over reference
+  label fit, 0.2007, 28419.7, 1.0000, 1.0000
+  geotransform file, 0.2063, 29211.0, 1.0278, 1.0278
+  gsd squared, 3.5231, 498931.8, 17.5558, 17.5559
+  pan_resolution squared, 0.2198, 31134.0, 1.0955, 1.0955
+guatemala-volcano_00000006
+  buildings, 97, center latitude, 14.3665
+  label fit: pixel side along x m, 0.4897, along y m, 0.4928, rotation deg, -0.548, worst vertex residual m, 0.0022
+  geotransform file: pixel width m, 0.4834, pixel height m, 0.4990
+  metadata: gsd, 1.4085, pan_resolution, 0.3517
+  total shoelace px, 42862.6, total filled px, 46936, filled over shoelace, 1.0950
+  total lng_lat reference m2, 10342.7
+  source of pixel area, pixel area m2, total m2, total over reference, worst building over reference
+  label fit, 0.2413, 10342.7, 1.0000, 1.0000
+  geotransform file, 0.2413, 10341.0, 0.9998, 0.9998
+  gsd squared, 1.9839, 85036.9, 8.2220, 8.2220
+  pan_resolution squared, 0.1237, 5303.0, 0.5127, 0.5127

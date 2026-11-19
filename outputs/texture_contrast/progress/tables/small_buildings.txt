@@ -1,0 +1,14 @@
+buildings scored, 878
+filled polygon under 40 pixels, 4, 0.0046
+eroded interior under 40 pixels (original polygon used), 16, 0.0182
+class, n, polygon under 40, interior under 40
+no-damage, 687, 3, 11
+minor-damage, 8, 0, 0
+major-damage, 14, 0, 0
+destroyed, 169, 1, 5
+event, n, polygon under 40, interior under 40
+santa-rosa-wildfire, 333, 2, 4
+socal-fire, 88, 0, 2
+midwest-flooding, 333, 1, 4
+guatemala-volcano, 124, 1, 6
+median score, interior under 40, 0.6213, interior 40 or more, 0.1053
